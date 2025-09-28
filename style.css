@@ -1,0 +1,70 @@
+.sec1{
+    background-color: rgb(253, 247, 247);
+    height: 70px;
+    width: 100;
+    
+
+}
+.sec2{
+    background-color: red;
+    height: 50px;
+    width: 100;
+    text-align: center;
+    color: white;
+    padding: 1%;
+}
+.sec3{
+    background-color: lightblue;
+    height: 500px;
+    width: 100;
+    color: black;
+    padding: 4%;
+}
+.sec4{
+    background-color: aliceblue;
+    height: 300px;
+    width: 100;
+
+}
+.icn{
+    font-size: 40px;
+    color: rgb(25, 111, 151);
+    padding: 3%;
+}
+.sec5{
+    background-color: rgb(43, 105, 126);
+    height: 500px;
+    width: 100;
+    padding: 5%;
+    text-align: center;
+    color: white;
+
+}
+.sec6{
+    background-color: rgb(212, 199, 181);
+    height: 500px;
+    width: 100;
+    text-align: center;
+    
+    
+}
+.sec7{
+background-color: antiquewhite;
+height: 450px;
+width: 100;
+text-align: center;
+padding: 5%;
+}
+.sec8{
+    background-color: rgb(26, 88, 109);
+    height: 250px;
+    text-align: center;
+    padding: 8%;
+
+    color: white;
+    
+    
+}
+.a{
+    padding: 8%;
+}
